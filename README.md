@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
@@ -97,3 +98,6 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/gatsbyjs/gatsby-starter-default)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
+=======
+# myblog
+>>>>>>> 304346c5669ad9386f899aaa84b5e79c7f0fdad1
